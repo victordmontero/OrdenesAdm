@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdenesAdm", "OrdenesAdm\OrdenesAdm.csproj", "{AC35AB30-AABA-435D-9B99-A1692FC34B2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdenesAdmCL", "OrdenesAdmCL\OrdenesAdmCL.csproj", "{0EFD47EE-6052-481A-B83B-5CC6BEB956E3}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://victordmontero.visualstudio.com/
+		SccProjectUniqueName0 = OrdenesAdm\\OrdenesAdm.csproj
+		SccProjectName0 = OrdenesAdm
+		SccLocalPath0 = OrdenesAdm
+		SccProjectUniqueName1 = OrdenesAdmCL\\OrdenesAdmCL.csproj
+		SccProjectName1 = OrdenesAdmCL
+		SccLocalPath1 = OrdenesAdmCL
+		SccLocalPath2 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC35AB30-AABA-435D-9B99-A1692FC34B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC35AB30-AABA-435D-9B99-A1692FC34B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC35AB30-AABA-435D-9B99-A1692FC34B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC35AB30-AABA-435D-9B99-A1692FC34B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EFD47EE-6052-481A-B83B-5CC6BEB956E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EFD47EE-6052-481A-B83B-5CC6BEB956E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EFD47EE-6052-481A-B83B-5CC6BEB956E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EFD47EE-6052-481A-B83B-5CC6BEB956E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
